@@ -21,7 +21,7 @@ class CalculatriceSimpleTest {
 		//excepted
 		int  attendu = 20;
 		//actual
-		int obtenu = cal.Addition1(12, 8);
+		int obtenu = cal.Addition1(12, 7);
 		
 		assertEquals(attendu,obtenu);
 
